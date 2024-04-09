@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "spring-6-rest-mvc",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
